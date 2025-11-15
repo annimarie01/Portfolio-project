@@ -87,13 +87,13 @@ nav {
 
 /* About Me*/
 
-#about__me {
+#about-me {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
 }
 
-.about__me--container {
+.about-me__info--container {
     display: flex;
     flex-direction: column;
     align-items: center;
